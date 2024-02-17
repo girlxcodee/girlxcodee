@@ -1,4 +1,4 @@
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
+![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 <h1 align="center">Hi 👋, I'm Mpho (Chantell) Letshwenyo</h1>
 <h3 align="center">I'm a Software Developer from South Africa</h3> 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZpN3Z0c255aDEzbnM2YzlhZDNjMnlsMXg2aW90eXlyd3dxOGt5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
